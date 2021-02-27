@@ -1,0 +1,2 @@
+F:\C++\MyProjects\HospitalSystem\Debug\HospitalSystem.exe
+F:\C++\MyProjects\HospitalSystem\Debug\HospitalSystem.pdb

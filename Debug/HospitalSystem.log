@@ -1,0 +1,5 @@
+﻿  HospitalSystem.cpp
+F:\C++\MyProjects\HospitalSystem\HospitalSystem.cpp(31,25): warning C4018: '<': signed/unsigned mismatch
+F:\C++\MyProjects\HospitalSystem\HospitalSystem.cpp(37,25): warning C4018: '<': signed/unsigned mismatch
+F:\C++\MyProjects\HospitalSystem\HospitalSystem.cpp(65,24): warning C4018: '<': signed/unsigned mismatch
+  HospitalSystem.vcxproj -> F:\C++\MyProjects\HospitalSystem\Debug\HospitalSystem.exe
